@@ -21,3 +21,6 @@ git remote: Manage set of tracked repositories.
 git reset: Reset current HEAD to the specified state.
 git config: Get and set repository or global options.
 git blame: Show what revision and author last modified each line of a file.
+
+
+you are in the private branch 
