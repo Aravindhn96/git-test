@@ -1,0 +1,20 @@
+git init: Initialize a new Git repository in a directory.
+git clone: Clone a repository from a remote source (like GitHub) to your local machine.
+git add: Add changes in your working directory to the staging area.
+git commit: Commit your staged changes to the local repository.
+git push: Push commits from your local repository to a remote repository.
+git pull: Fetch and merge changes from the remote repository to your local repository.
+git branch: List, create, or delete branches.
+git checkout: Switch between branches or restore working tree files.
+git merge: Merge changes from one branch into another.
+git rebase: Reapply commits on top of another base tip.
+git status: Show the status of working directory and staging area.
+git log: Display commit history.
+git diff: Show changes between commits, commit and working tree, etc.
+git stash: Stash changes in a dirty working directory away.
+git tag: Create, list, delete or verify a tag object.
+git fetch: Download objects and refs from another repository.
+git remote: Manage set of tracked repositories.
+git reset: Reset current HEAD to the specified state.
+git config: Get and set repository or global options.
+git blame: Show what revision and author last modified each line of a file.
